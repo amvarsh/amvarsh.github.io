@@ -1,0 +1,25 @@
+h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Segoe UI";
+    font-weight: 700;
+    font-size: xx-large;
+    line-height: 1.2;
+    color: #343a40;
+
+  }
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Segoe UI Symbol";
+    font-weight: 600;
+    font-size: larger;
+    line-height: 1.2;
+    color: #343a40;
+    
+  }
+
+p {
+    font-size: 0.16in;
+}
